@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2025-09-13T16:46:20.446Z - Started listening on: \\.\pipe\nx\C:\Users\SUCCES~1\AppData\Local\Temp\b5f9a45a6daf4cc195e8\d.sock
+[NX Daemon Server] - 2025-09-13T16:46:20.686Z - [WATCHER]: Subscribed to changes within: E:\3. Github\2. Spring\springboot-angular-ecommerce (native)
+[NX Daemon Server] - 2025-09-13T16:46:20.688Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-09-13T16:46:20.688Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-09-13T16:46:20.690Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-09-13T16:46:20.691Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-09-13T16:46:20.692Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-09-13T16:46:20.693Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-09-13T16:46:20.694Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-09-13T16:46:20.694Z - [WATCHER]: Stopping the watcher for E:\3. Github\2. Spring\springboot-angular-ecommerce (sources)
+[NX Daemon Server] - 2025-09-13T16:46:20.694Z - [WATCHER]: Stopping the watcher for E:\3. Github\2. Spring\springboot-angular-ecommerce (outputs)
